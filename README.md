@@ -1,6 +1,6 @@
 📊 Data Scientist | 🧠 Machine Learning Enthusiast | 📈 Data Explorer
 
-👋 Hello, World! Welcome to my GitHub profile. I'm Uzair, a passionate data scientist with a knack for turning raw data into meaningful insights. My journey in the world of data has been an exciting one, and I'm here to share my projects, code, and discoveries with the community.
+👋 **Hi I'm Uzair**, a passionate data scientist with a knack for turning raw data into meaningful insights. My journey in the world of data has been an exciting one, and I'm here to share my projects, code, and discoveries with the community.
 
 🔬 What I Do:
 - 🧪 Experiment with data to uncover hidden patterns.
