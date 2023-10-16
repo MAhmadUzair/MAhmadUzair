@@ -1,8 +1,8 @@
-Muhammad Ahmad Uzair | 📊 Data Scientist | 🧠 Machine Learning Enthusiast | 📈 Data Explorer
+###Muhammad Ahmad Uzair | 📊 Data Scientist | 🧠 Machine Learning Enthusiast | 📈 Data Explorer
 
 👋 **Hi I'm Uzair**, a passionate data scientist with a knack for turning raw data into meaningful insights. My journey in the world of data has been an exciting one, and I'm here to share my projects, code, and discoveries with the community.
 
-What I Do:
+##What I Do:
 
 I am an IBM-certified Data Scientist with a passion for advanced analytics and machine learning. My goal is to leverage cutting-edge technology to extract actionable insights and drive data-driven decision-making in collaborative and innovative environments.
 
@@ -11,7 +11,7 @@ I am an IBM-certified Data Scientist with a passion for advanced analytics and m
 - 📉 Create data visualizations that tell compelling stories.
 - 📚 Continuously learn and stay up-to-date with the latest trends in data science.
 
-How I Do It:
+##How I Do It:
 
 - Proficient in Python and C++
 - Skilled in essential data science libraries: numpy, pandas, scikit-learn, seaborn, matplotlib
@@ -24,12 +24,12 @@ How I Do It:
  Computer Vision, and Frameworks (TensorFlow/PyTorch)
 
 
-Why It Works:
+##Why It Works:
 
 I combine technical expertise with a passion for solving complex problems. My hands-on experience and knowledge in data science and machine learning allow me to deliver data-driven solutions that make a difference.
 
 
-Services I Provide:
+##Services I Provide:
  
 - Data Analysis
 - Machine Learning
@@ -40,7 +40,7 @@ Services I Provide:
 - Chatbots
 
 
-Types of Businesses I've Helped:
+##Types of Businesses I've Helped:
 
 ⭐ Data-Driven Startups
 ⭐ E-commerce Companies
@@ -48,11 +48,11 @@ Types of Businesses I've Helped:
 ⭐ Financial Institutions
 ⭐ Retailers
 
-What Others Say:
+##What Others Say:
 
 🗣 "Muhammad Ahmad Uzair is a brilliant data scientist who delivers results. His expertise in machine learning and data analysis is truly impressive."
 
-Ready to Talk?
+##Ready to Talk?
 
 🌐 Connect with Me:
 - 📧 Email: mauzair19@gmail.com
