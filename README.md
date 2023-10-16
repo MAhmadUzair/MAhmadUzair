@@ -1,4 +1,4 @@
-###Muhammad Ahmad Uzair | 📊 Data Scientist | 🧠 Machine Learning Enthusiast | 📈 Data Explorer
+### Muhammad Ahmad Uzair | 📊 Data Scientist | 🧠 Machine Learning Enthusiast | 📈 Data Explorer
 
 👋 **Hi I'm Uzair**, a passionate data scientist with a knack for turning raw data into meaningful insights. My journey in the world of data has been an exciting one, and I'm here to share my projects, code, and discoveries with the community.
 
