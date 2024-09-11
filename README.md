@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **Building LLM Apps & Chatbots**
 
-- 👨‍💻 All of my projects are available at [https://mauzair19.wixsite.com/muhammadahmaduzair](https://mauzair19.wixsite.com/muhammadahmaduzair)
+- 👨‍💻 All of my projects are available at [https://mauzair.com](https://mauzair.com)
 
-- 📝 I regularly write articles on [https://mauzair19.wixsite.com/muhammadahmaduzair](https://mauzair19.wixsite.com/muhammadahmaduzair)
+- 📝 I regularly write articles on [https://mauzair.com](https://mauzair.com)
 
 - 💬 Ask me about **Chatbots & AI Applications**
 
 - 📫 How to reach me **mauzair19@gmail.com**
 
-- 📄 Know about my experiences [https://mauzair19.wixsite.com/muhammadahmaduzair/resume](https://mauzair19.wixsite.com/muhammadahmaduzair/resume)
+- 📄 Know about my experiences [https://mauzair.com](https://mauzair.com)
 
 - ⚡ Fun fact **I am funny**
 
