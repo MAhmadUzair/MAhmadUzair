@@ -78,11 +78,11 @@ I build **scalable AI MVPs** that move beyond demos — focusing on **accuracy, 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MAhmadUzair&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAhmadUzair&hide_border=true" />
 </p>
 
 ---
