@@ -2,6 +2,10 @@
 <h1 align="center">Muhammad Ahmad Uzair</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uzairee&label=Profile%20Views&color=0A66C2&style=flat" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Agentic+AI+Specialist;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;AI+MVPs+%7C+Voice+Agents+%7C+Fine-Tuning" />
 </p>
 
@@ -78,11 +82,11 @@ I build **scalable AI MVPs** that move beyond demos — focusing on **accuracy, 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAhmadUzair&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uzairee&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAhmadUzair&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairee&hide_border=true" />
 </p>
 
 ---
