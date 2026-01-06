@@ -1,4 +1,4 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== HERO ===================== -->
 <h1 align="center">Muhammad Ahmad Uzair</h1>
 
 <p align="center">
@@ -6,127 +6,93 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Agentic+AI+Specialist;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;AI+MVPs+%7C+Voice+Agents+%7C+Fine-Tuning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=AI+Engineer;Agentic+AI+%7C+LLMs+%7C+RAG;Voice+Agents+%7C+AI+MVPs+%7C+Fine-Tuning" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/m-ahmad-uzair"><img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=flat&logo=linkedin"/></a>
-  <a href="https://github.com/MAhmadUzair"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github"/></a>
-  <a href="mailto:mauzair19@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/m-ahmad-uzair">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MAhmadUzair">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:mauzair19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
-
-AI Engineer with **2.5+ years of experience** delivering **production-grade AI systems**.  
-Specialized in **Agentic AI, RAG pipelines, fine-tuned LLMs, and voice-based AI products**.
-
-I build **scalable AI MVPs** that move beyond demos — focusing on **accuracy, latency, reliability, and real user impact** across **health, retail, and agri-tech** domains.
-
----
-
-## 🎯 Core Focus Areas
-
-| Area | Expertise |
-|-----|---------|
-| Agentic AI | Multi-agent systems, tool-calling, memory, orchestration |
-| RAG Systems | Hybrid search, vector DBs, context optimization |
-| LLM Fine-Tuning | PEFT, LoRA, prompt tuning, domain adaptation |
-| Voice Agents | Whisper, TTS, voice-to-intent pipelines |
-| AI MVPs | Rapid prototyping → scalable production |
-| Automation | AI workflows, MCP, n8n, Zapier |
-| Data & Scraping | Python scrapers, pipelines, ETL |
-
----
-
-## 🧠 Technical Skill Matrix
-
-| Category | Stack |
-|-------|------|
-| Languages | Python |
-| Frameworks | FastAPI, Django, Streamlit |
-| AI / ML | LLMs, Transformers, NLP, CV (YOLOv8) |
-| Agent Frameworks | LangChain, LangGraph, AutoGen, CrewAI |
-| Databases | PostgreSQL, MongoDB, Neo4j |
-| Vector DBs | Qdrant, Pinecone |
-| DevOps | Docker, Linux, GitHub Actions |
-| Cloud | AWS |
-| Automation | n8n, Zapier, Make |
-| Protocols | MCP (Model Context Protocol) |
-
----
-
-## 🏗️ Selected Projects
-
-| Project | Description | Tech |
-|------|------------|------|
-| **Retail AI Agent** | Inventory & business intelligence agent | OpenAI Agents, RAG |
-| **Farmbyte AI** | Smart farming assistant with disease support | LLMs, CV, RAG |
-| **Coding Agent** | Reduced dev query time by 50% | Multi-Agent AI |
-| **Voice AI Assistant** | Voice-to-intent mental wellness agent | Whisper, LangGraph |
-| **YOLOv8 App** | Real-time detection & segmentation | YOLOv8, Streamlit |
-
----
-
-## ⚙️ Engineering Strengths
-
-- Designing **low-latency, high-accuracy AI systems**
-- Building **agent workflows with tool usage & memory**
-- Fine-tuning LLMs to **reduce hallucinations**
-- Scaling APIs with **99.99% uptime**
-- Turning **ideas → MVP → production**
-
----
-
-## 📊 GitHub Analytics
-
+<!-- ===================== ABOUT (MINIMAL) ===================== -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=uzairee&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" 
-    alt="GitHub Stats"
-  />
+AI Engineer with <b>2.5+ years</b> experience building <b>production-ready AI systems</b><br/>
+Agentic AI · RAG · Fine-Tuned LLMs · Voice Agents · AI MVPs
+</p>
+
+---
+
+<!-- ===================== SKILLS (VISUAL ONLY) ===================== -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,streamlit,docker,linux,aws,postgres,mongodb,git" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=uzairee&hide_border=true" 
-    alt="GitHub Streak"
-  />
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
 </p>
 
+<p align="center">
+🧠 LLMs · RAG · LangChain · LangGraph · AutoGen · CrewAI · OpenAI Agents · MCP · Whisper · YOLOv8
+</p>
 
 ---
 
-## 🐍 Contribution Activity
+<!-- ===================== WHAT I BUILD ===================== -->
+<p align="center">
+🚀 Agentic AI Systems &nbsp;&nbsp;•&nbsp;&nbsp;
+🎙️ Voice-First AI Products &nbsp;&nbsp;•&nbsp;&nbsp;
+🧪 Fine-Tuned LLMs &nbsp;&nbsp;•&nbsp;&nbsp;
+⚙️ AI Automations & Scrapers
+</p>
 
+---
+
+<!-- ===================== PROJECT HIGHLIGHTS ===================== -->
+<p align="center">
+<b>Retail AI Agent</b> · Business & inventory intelligence using OpenAI Agents<br/>
+<b>Farmbyte AI</b> · Smart farming assistant with disease detection & insights<br/>
+<b>Multi-Agent Coding Assistant</b> · Reduced dev query time by 50%<br/>
+<b>Voice AI Assistant</b> · Voice-to-intent mental wellness agent
+</p>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uzairee&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairee&hide_border=true" />
+</p>
+
+---
+
+<!-- ===================== SNAKE ===================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🚀 Currently Exploring
-
-- Agentic AI with **tool autonomy**
-- Voice-first AI products
-- Fine-tuned LLMs for startups
-- MCP-based AI systems
-
----
-
-## 📬 Let’s Build
-
-If you’re working on:
-- AI MVPs
-- Intelligent agents
-- Voice-based products
-- Custom LLM solutions
-
-I’m always open to collaboration.
+<!-- ===================== CURRENT FOCUS ===================== -->
+<p align="center">
+Currently exploring:<br/>
+Agentic autonomy · Voice AI · Startup-ready MVPs · MCP-based systems
+</p>
 
 ---
 
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:111827&height=120&section=footer"/>
 </p>
