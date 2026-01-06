@@ -1,31 +1,38 @@
-## About
+## 💫 About Me
 
-<p>
-AI Engineer working on <strong>agentic AI systems</strong> and <strong>LLM-driven automations</strong>, with a focus on building reliable, production-ready AI MVPs.
-</p>
-
-<p>
-Currently focused on <strong>multi-agent workflows</strong>, <strong>RAG pipelines</strong>, and <strong>business automations</strong> using LLMs, tools, and n8n.
-</p>
-
-<p>
-Open to collaboration on agentic AI, automations, and applied AI systems that ship to real users.
-</p>
-
-<p>
-<strong>Projects:</strong> <a href="https://mauzair.com">mauzair.com</a><br/>
-<strong>Writing:</strong> <a href="https://mauzair.com/blog/">mauzair.com/blog</a><br/>
-<strong>Experience:</strong> <a href="https://www.linkedin.com/in/m-ahmad-uzair/">LinkedIn</a><br/>
-<strong>Contact:</strong> <a href="mailto:mauzair19@gmail.com">mauzair19@gmail.com</a>
-</p>
-
-<p>
-<em>Fun fact:</em> I enjoy building serious systems and keeping the process light.
-</p>
-
-<p>
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=uzairee&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
+
+- 🔭 **Currently working on**  
+  Designing and deploying **agentic AI systems** and **LLM-driven workflow automations** using tools and n8n.
+
+- 🌱 **Currently learning**  
+  Advanced **business automation patterns** and AI-driven operational workflows.
+
+- 👯 **Open to collaborating on**  
+  Agentic AI development, intelligent automations, and **production-ready AI MVPs**.
+
+- 🤝 **Looking for help with**  
+  Scaling and hardening **multi-agent workflows** for real-world, high-usage environments.
+
+- 👨‍💻 **Projects**  
+  https://mauzair.com
+
+- 📝 **Writing**  
+  https://mauzair.com/blog/
+
+- 💬 **Ask me about**  
+  AI agents, RAG chatbots, LLM fine-tuning, voice agents, automations, and MVP development.
+
+- 📫 **Contact**  
+  mauzair19@gmail.com
+
+- 📄 **Experience**  
+  https://www.linkedin.com/in/m-ahmad-uzair/
+
+- ⚡ **Fun fact**  
+  I enjoy building serious systems — and keeping the process light.
 
 
 ## 🌐 Socials:
