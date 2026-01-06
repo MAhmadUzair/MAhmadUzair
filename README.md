@@ -1,38 +1,31 @@
-## 💫 About Me
+## About
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=uzairee&label=Profile%20Views&color=0A66C2&style=flat" />
+<p>
+AI Engineer working on <strong>agentic AI systems</strong> and <strong>LLM-driven automations</strong>, with a focus on building reliable, production-ready AI MVPs.
 </p>
 
-- 🔭 **Currently working on:**  
-  Agentic AI systems and workflow automations using **LLMs, tools, and n8n**
+<p>
+Currently focused on <strong>multi-agent workflows</strong>, <strong>RAG pipelines</strong>, and <strong>business automations</strong> using LLMs, tools, and n8n.
+</p>
 
-- 🌱 **Currently learning:**  
-  Advanced business automations and AI-driven operational workflows
+<p>
+Open to collaboration on agentic AI, automations, and applied AI systems that ship to real users.
+</p>
 
-- 👯 **Open to collaborating on:**  
-  Agentic AI development, AI automations, and **production-ready MVPs**
+<p>
+<strong>Projects:</strong> <a href="https://mauzair.com">mauzair.com</a><br/>
+<strong>Writing:</strong> <a href="https://mauzair.com/blog/">mauzair.com/blog</a><br/>
+<strong>Experience:</strong> <a href="https://www.linkedin.com/in/m-ahmad-uzair/">LinkedIn</a><br/>
+<strong>Contact:</strong> <a href="mailto:mauzair19@gmail.com">mauzair19@gmail.com</a>
+</p>
 
-- 🤝 **Looking for help with:**  
-  Scaling and refining **multi-agent workflows** for real-world use cases
+<p>
+<em>Fun fact:</em> I enjoy building serious systems and keeping the process light.
+</p>
 
-- 👨‍💻 **Projects:**  
-  🌐 https://mauzair.com
-
-- 📝 **Writing:**  
-  ✍️ https://mauzair.com/blog/
-
-- 💬 **Ask me about:**  
-  AI agents, RAG chatbots, LLM fine-tuning, voice agents, automations, and MVPs
-
-- 📫 **Contact:**  
-  📧 mauzair19@gmail.com
-
-- 📄 **Experience:**  
-  🔗 https://www.linkedin.com/in/m-ahmad-uzair/
-
-- ⚡ **Fun fact:**  
-  I enjoy building serious systems — and keeping the process light.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=uzairee&label=Profile%20Views&color=0A66C2&style=flat" />
+</p>
 
 
 ## 🌐 Socials:
