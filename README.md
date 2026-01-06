@@ -4,34 +4,34 @@
   <img src="https://komarev.com/ghpvc/?username=uzairee&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
 
-- 🔭 **Currently working on**  
-  Designing and deploying **agentic AI systems** and **LLM-driven workflow automations** using tools and n8n.
+- 🔭 **Currently working on:**  
+  Agentic AI systems and workflow automations using **LLMs, tools, and n8n**
 
-- 🌱 **Currently learning**  
-  Advanced **business automation patterns** and AI-driven operational workflows.
+- 🌱 **Currently learning:**  
+  Advanced business automations and AI-driven operational workflows
 
-- 👯 **Open to collaborating on**  
-  Agentic AI development, intelligent automations, and **production-ready AI MVPs**.
+- 👯 **Open to collaborating on:**  
+  Agentic AI development, AI automations, and **production-ready MVPs**
 
-- 🤝 **Looking for help with**  
-  Scaling and hardening **multi-agent workflows** for real-world, high-usage environments.
+- 🤝 **Looking for help with:**  
+  Scaling and refining **multi-agent workflows** for real-world use cases
 
-- 👨‍💻 **Projects**  
-  https://mauzair.com
+- 👨‍💻 **Projects:**  
+  🌐 https://mauzair.com
 
-- 📝 **Writing**  
-  https://mauzair.com/blog/
+- 📝 **Writing:**  
+  ✍️ https://mauzair.com/blog/
 
-- 💬 **Ask me about**  
-  AI agents, RAG chatbots, LLM fine-tuning, voice agents, automations, and MVP development.
+- 💬 **Ask me about:**  
+  AI agents, RAG chatbots, LLM fine-tuning, voice agents, automations, and MVPs
 
-- 📫 **Contact**  
-  mauzair19@gmail.com
+- 📫 **Contact:**  
+  📧 mauzair19@gmail.com
 
-- 📄 **Experience**  
-  https://www.linkedin.com/in/m-ahmad-uzair/
+- 📄 **Experience:**  
+  🔗 https://www.linkedin.com/in/m-ahmad-uzair/
 
-- ⚡ **Fun fact**  
+- ⚡ **Fun fact:**  
   I enjoy building serious systems — and keeping the process light.
 
 
