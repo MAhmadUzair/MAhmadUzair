@@ -1,5 +1,38 @@
-# 💫 About Me:
-🔭 I’m currently working on Agentic AI systems and workflow automations using LLMs, tools, and n8n<br>🌱 I’m currently learning Advanced business automations and AI-driven operational workflows<br>👯 I’m looking to collaborate on Agentic AI development, AI automations, and production-ready MVPs<br>🤝 I’m looking for help with Scaling and refining multi-agent workflows for real-world use cases<br>👨‍💻 All of my projects are available at mauzair.com<br>📝 I regularly write articles on https://mauzair.com/blog/<br>💬 Ask me about AI agents, RAG chatbots, LLM fine-tuning, voice agents, automations, and MVPs<br>📫 How to reach me mauzair19@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/m-ahmad-uzair/<br>⚡ Fun fact I enjoy building serious systems — and keeping the process light.
+## 💫 About Me
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=uzairee&label=Profile%20Views&color=0A66C2&style=flat" />
+</p>
+
+- 🔭 **Currently working on:**  
+  Agentic AI systems and workflow automations using **LLMs, tools, and n8n**
+
+- 🌱 **Currently learning:**  
+  Advanced business automations and AI-driven operational workflows
+
+- 👯 **Open to collaborating on:**  
+  Agentic AI development, AI automations, and **production-ready MVPs**
+
+- 🤝 **Looking for help with:**  
+  Scaling and refining **multi-agent workflows** for real-world use cases
+
+- 👨‍💻 **Projects:**  
+  🌐 https://mauzair.com
+
+- 📝 **Writing:**  
+  ✍️ https://mauzair.com/blog/
+
+- 💬 **Ask me about:**  
+  AI agents, RAG chatbots, LLM fine-tuning, voice agents, automations, and MVPs
+
+- 📫 **Contact:**  
+  📧 mauzair19@gmail.com
+
+- 📄 **Experience:**  
+  🔗 https://www.linkedin.com/in/m-ahmad-uzair/
+
+- ⚡ **Fun fact:**  
+  I enjoy building serious systems — and keeping the process light.
 
 
 ## 🌐 Socials:
