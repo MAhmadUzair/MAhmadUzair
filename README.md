@@ -1,54 +1,186 @@
-## 💫 About Me
+```markdown
+# 🚀 Building AI Systems That Deliver Business Outcomes
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=uzairee&label=Profile%20Views&color=0A66C2&style=flat" />
+<h3 align="center">
+AI Engineer @ KPMG | Agentic AI Architect | Enterprise Automation | Multi-Agent Systems | RAG | Workflow Intelligence
+</h3>
+
+<p align="center">
+  <a href="https://mauzair.com">
+    <img src="https://img.shields.io/badge/Portfolio-mauzair.com-blue?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/m-ahmad-uzair">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ahmad%20Uzair-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:mauzair19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-- 🔭 **Currently working on:**  
-  Agentic AI systems and workflow automations using **LLMs, tools, and n8n**
-
-- 🌱 **Currently learning:**  
-  Advanced business automations and AI-driven operational workflows
-
-- 👯 **Open to collaborating on:**  
-  Agentic AI development, AI automations, and **production-ready MVPs**
-
-- 🤝 **Looking for help with:**  
-  Scaling and refining **multi-agent workflows** for real-world use cases
-
-- 👨‍💻 **Projects:**  
-  🌐 https://mauzair.com
-
-- 📝 **Writing:**  
-  ✍️ https://mauzair.com/blog/
-
-- 💬 **Ask me about:**  
-  AI agents, RAG chatbots, LLM fine-tuning, voice agents, automations, and MVPs
-
-- 📫 **Contact:**  
-  📧 mauzair19@gmail.com
-
-- 📄 **Experience:**  
-  🔗 https://www.linkedin.com/in/m-ahmad-uzair/
-
-- ⚡ **Fun fact:**  
-  I enjoy building serious systems — and keeping the process light.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-ahmad-uzair) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauzair19@gmail.com) 
-
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MAhmadUzair&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MAhmadUzair&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAhmadUzair&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MAhmadUzair&label=Profile%20Views&color=0A66C2&style=flat" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MAhmadUzair&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 About Me
+
+I design and build **enterprise AI systems** that automate workflows, enhance decision-making, and create measurable business value.
+
+Currently working as an **AI Engineer at KPMG**, where I help organizations adopt **Generative AI, Agentic AI, Multi-Agent Systems, and Enterprise Automation** to solve complex business challenges.
+
+My work focuses on transforming business processes into intelligent systems capable of:
+
+- 🤖 Autonomous decision-making
+- ⚙️ Process automation
+- 🧠 Enterprise knowledge retrieval
+- 📊 Operational intelligence
+- 🔍 Research and analysis
+- 🎙️ Conversational & Voice AI
+
+---
+
+## 🎯 What I Build
+
+### 🤖 Agentic AI Systems
+AI agents that reason, plan, collaborate, and execute real-world business workflows.
+
+### 🧠 Enterprise RAG Platforms
+Knowledge assistants powered by Retrieval-Augmented Generation, GraphRAG, Vector Databases, and Enterprise Search.
+
+### ⚙️ Intelligent Workflow Automation
+Business automation using AI Agents, APIs, n8n, Make, and enterprise integrations.
+
+### 🎙️ Voice & Conversational AI
+Voice-enabled assistants and AI copilots capable of performing real business tasks.
+
+### 📈 Decision Intelligence Platforms
+Systems that convert enterprise data into actionable recommendations and strategic insights.
+
+---
+
+## 🏢 Industries & Domains
+
+- Financial Advisory
+- Operational Resilience
+- Regulatory Intelligence
+- Healthcare
+- Agriculture
+- Logistics & Supply Chain
+- Enterprise Knowledge Management
+- Customer Support Automation
+- Research & Analysis
+- Business Process Optimization
+
+---
+
+## 🚀 Featured AI Projects
+
+### BMAD Intelligence
+Multi-agent business analysis platform automating:
+- Discovery
+- Requirements Engineering
+- Current-State Assessment
+- Target-State Design
+- Strategic Recommendations
+
+### DataAlign
+Enterprise metadata intelligence platform leveraging AI agents to align business and technical knowledge.
+
+### REGULENS
+AI-powered regulatory intelligence solution for monitoring, analyzing, and summarizing regulatory changes.
+
+### RefinerySense
+Industrial intelligence platform providing operational insights and anomaly detection for refinery operations.
+
+### AlphaTwin
+AI-powered digital twin platform for operational monitoring and business optimization.
+
+### Farmbyte AI
+Smart agriculture assistant delivering crop recommendations and farming intelligence.
+
+### TherapyNest AI
+Conversational AI platform designed to support mental wellness and personalized assistance.
+
+---
+
+## 🛠 Core Expertise
+
+### AI & Agent Frameworks
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-0A66C2?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-4F46E5?style=for-the-badge)
+
+### LLM Engineering
+
+![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-0A66C2?style=for-the-badge)
+![Fine Tuning](https://img.shields.io/badge/Fine--Tuning-FF6F00?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge)
+![Evaluation](https://img.shields.io/badge/LLM%20Evaluation-10B981?style=for-the-badge)
+
+### Backend & APIs
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST-005571?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge)
+
+### Data & Vector Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-EF4444?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge)
+
+### Automation
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+![Make](https://img.shields.io/badge/Make-7C3AED?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge)
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
+
+---
+
+## 🌍 Connect With Me
+
+🌐 Portfolio: https://mauzair.com
+
+📝 Blog: https://mauzair.com/blog
+
+💼 LinkedIn: https://linkedin.com/in/m-ahmad-uzair
+
+📧 Email: mauzair19@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=MAhmadUzair&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=MAhmadUzair&theme=codeSTACKr&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAhmadUzair&theme=codeSTACKr&hide_border=true&layout=compact)
+
+---
+
+## 🚀 Mission
+
+> Building AI systems that don't just answer questions — they take action, automate work, and deliver measurable business outcomes.
+```
